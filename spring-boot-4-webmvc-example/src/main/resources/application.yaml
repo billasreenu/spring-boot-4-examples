@@ -1,0 +1,5 @@
+debug: true
+
+spring:
+  application:
+    name: spring-boot-4-examples
