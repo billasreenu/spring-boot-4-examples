@@ -1,1 +1,1 @@
-# Spring Booot gradle example
+# Spring Boot gradle example

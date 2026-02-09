@@ -1,1 +1,1 @@
-# Spring Booot maven example
+# Spring Boot maven example
