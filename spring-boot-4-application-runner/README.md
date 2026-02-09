@@ -1,1 +1,1 @@
-# Spring Boot 4 command line runner
+# Spring Boot 4 application runner
