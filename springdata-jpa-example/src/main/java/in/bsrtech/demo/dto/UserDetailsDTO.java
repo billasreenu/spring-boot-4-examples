@@ -1,9 +1,11 @@
 package in.bsrtech.demo.dto;
 
-import org.springframework.data.annotation.Id;
-import org.springframework.data.relational.core.mapping.Table;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 
-@Table("tbl_user_details")
+@Entity
+@Table(name = "tbl_user_details")
 public class UserDetailsDTO {
 
 	@Id

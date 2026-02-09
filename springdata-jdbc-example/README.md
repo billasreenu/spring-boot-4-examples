@@ -1,1 +1,1 @@
-# Spring Boot maven example
+# Spring Boot data jdbc example

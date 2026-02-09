@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import in.bsrtech.demo.dto.UserDetailsDTO;
 
 @Repository
-public interface SpringJdbcRepo extends CrudRepository<UserDetailsDTO, Long> {
+public interface UserDetailsJdbcRepo extends CrudRepository<UserDetailsDTO, Long> {
 
 }
