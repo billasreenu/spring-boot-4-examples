@@ -1,0 +1,10 @@
+debug: true
+
+spring:
+    application:
+        name: spring-boot-4-examples
+    datasource:
+        url: jdbc:postgresql://127.0.0.1:5432/bsrtdb_a?currentSchema=testapp
+        username: db_user_1
+        password: MyPwd123
+        driver-class-name: org.postgresql.Driver

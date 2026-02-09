@@ -1,0 +1,11 @@
+create table tbl_user_details
+(
+user_id bigint,
+user_name varchar,
+first_name varchar,
+last_name varchar
+)
+
+insert into tbl_user_details values (1,'viratkohli','Virat','Kohli');
+insert into tbl_user_details values (2,'rohitsharma','Rohit','Sharma');
+
