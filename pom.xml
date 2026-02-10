@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+	<groupId>in.bsrtech.demo</groupId>
+	<artifactId>spring-boot-4-examples</artifactId>
+	<version>1.0</version>
+	
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>spring-boot-4-example</module>
+        <module>spring-boot-4-application-runner</module>
+        <module>spring-boot-4-command-line-runner</module>
+        <module>spring-boot-4-maven-example</module>
+		
+        <module>spring-boot-4-springdata-example</module>
+        <module>spring-boot-4-springdata-jdbc-example</module>
+        <module>spring-boot-4-springdata-jpa-example</module>
+        <module>spring-boot-4-springdata-mongo-example</module>
+        <module>spring-boot-4-springdata-multiple-datasources-example</module>
+        <module>spring-boot-4-springdata-redis-example</module>
+        <module>spring-boot-4-springdata-stored-procedure-example</module>
+		
+        <module>spring-boot-4-webmvc-example</module>
+        <module>spring-boot-4-webmvc-filter-example</module>
+        <module>spring-boot-4-webmvc-interceptor-example</module>
+
+        <module>spring-boot-4-restapi-example</module>
+
+    </modules>
+
+</project>

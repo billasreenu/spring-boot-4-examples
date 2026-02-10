@@ -13,7 +13,7 @@
 
 	<groupId>in.bsrtech.demo</groupId>
 	<artifactId>spring-boot-4-example</artifactId>
-	<version>1.0.0</version>
+	<version>1.0</version>
 	<name>spring-boot-4-example</name>
 	<description>Demo project for Spring Boot</description>
 
