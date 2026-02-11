@@ -12,9 +12,9 @@
 	</parent>
 
 	<groupId>in.bsrtech.demo</groupId>
-	<artifactId>springdata-stored-procedure-example</artifactId>
+	<artifactId>spring-boot-4-springdata-stored-procedure-example</artifactId>
 	<version>1.0</version>
-	<name>springdata-stored-procedure-example</name>
+	<name>spring-boot-4-springdata-stored-procedure-example</name>
 	<description>Demo project for Spring Boot</description>
 
 	<url />

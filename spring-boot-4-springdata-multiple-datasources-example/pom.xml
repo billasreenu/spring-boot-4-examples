@@ -12,9 +12,9 @@
 	</parent>
 
 	<groupId>in.bsrtech.demo</groupId>
-	<artifactId>springdata-multiple-datasources-example</artifactId>
+	<artifactId>spring-boot-4-springdata-multiple-datasources-example</artifactId>
 	<version>1.0</version>
-	<name>springdata-multiple-datasources-example</name>
+	<name>spring-boot-4-springdata-multiple-datasources-example</name>
 	<description>Demo project for Spring Boot</description>
 
 	<url />
